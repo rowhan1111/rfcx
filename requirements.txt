@@ -1,6 +1,6 @@
 streamlit
 streamlit-server-state
-SQLAlchemy==2.0.27
+SQLAlchemy==1.4.0
 numpy
 av
 pydub
