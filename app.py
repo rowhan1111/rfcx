@@ -46,4 +46,5 @@ webrtc_streamer(
     mode=WebRtcMode.SENDRECV,
     audio_frame_callback=process_audio,
     async_processing=True,
+    sendback_video=False,
 )
