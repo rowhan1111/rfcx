@@ -1,0 +1,7 @@
+streamlit
+streamlit-server-state
+SQLAlchemy==2.0.27
+numpy
+av
+pydub
+streamlit-webrtc
